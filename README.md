@@ -6,9 +6,6 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -21,6 +18,9 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
+### Name:
+### Register Number:
+
 
 Include your code here
 
